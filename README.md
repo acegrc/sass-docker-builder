@@ -1,15 +1,15 @@
-# sass-docker-builder
+# acegrc/sass
 
 [![dockeri.co](https://dockeri.co/image/acegrc/sass)](https://hub.docker.com/r/acegrc/sass)
 
 [![GitHub issues](https://img.shields.io/github/issues/acegrc/sass-docker-builder.svg "GitHub issues")](https://github.com/acegrc/sass-docker-builder/issues)
 [![GitHub stars](https://img.shields.io/github/stars/acegrc/sass-docker-builder.svg "GitHub stars")](https://github.com/acegrc/sass-docker-builder)
 
-[![Docker build](https://img.shields.io/docker/cloud/build/acegrc/sass.svg)]((https://hub.docker.com/r/acegrc/sass))
-[![Docker Pulls](https://img.shields.io/docker/pulls/acegrc/sass.svg)]((https://hub.docker.com/r/acegrc/sass))
+[![Docker build](https://img.shields.io/docker/cloud/build/acegrc/sass.svg)](https://hub.docker.com/r/acegrc/sass)
+[![Docker Pulls](https://img.shields.io/docker/pulls/acegrc/sass.svg)](https://hub.docker.com/r/acegrc/sass)
 
 # What is this image about?
-This image is based on <a href="https://hub.docker.com/_/node">node:alpine</a> docker image with extra package installed the <a href="https://www.npmjs.com/package/sass">sass package</a>.
+This image is based on <a href="https://hub.docker.com/_/node">node:alpine</a> docker image with extra package installed <a href="https://www.npmjs.com/package/sass">sass</a>.
 
 # How to use this image
 
