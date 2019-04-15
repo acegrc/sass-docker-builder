@@ -89,6 +89,7 @@ Consider the following table to find out the mapped paths and create yours:
  Project Directory | Mapped Path 
 -------------------|--------------
  MyProject         | /src 
+ MyProject/css     | /src/css 
  MyProject/src     | /src/src 
  MyProject/src/css | /src/src/css 
 
